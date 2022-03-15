@@ -11,9 +11,9 @@
     <groupId>dev.zwazel</groupId>
     <artifactId>OnlineChatWebSocket</artifactId>
     <version>0.0.1-SNAPSHOT</version>
+    <packaging>war</packaging>
     <name>OnlineChatWebSocket</name>
     <description>OnlineChatWebSocket</description>
-    <packaging>war</packaging>
     <properties>
         <java.version>17</java.version>
     </properties>
