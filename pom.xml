@@ -61,6 +61,12 @@
             <artifactId>jquery</artifactId>
             <version>3.6.0</version>
         </dependency>
+        <!-- I'm hoping that with this it will work on heroku... -->
+        <dependency>
+            <groupId>org.apache.tomcat.embed</groupId>
+            <artifactId>tomcat-embed-websocket</artifactId>
+            <version>10.0.16</version>
+        </dependency>
     </dependencies>
 
     <build>
